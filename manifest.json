@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Image Replacer",
-  "description": "Replaces all images with a specific image every second when clicked.",
+  "name": "Bad Apple",
+  "description": "idk",
   "version": "1.0",
   "permissions": ["activeTab"],
   "action": {
